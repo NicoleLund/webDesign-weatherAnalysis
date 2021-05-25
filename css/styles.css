@@ -1,5 +1,20 @@
+body {
+    background-color: lightgray;
+}
+
+.floating {
+    width: 50%;
+    height: auto;
+    float: left;
+}
+
+img {
+    width: 100%;
+    height: auto;
+  }
+
 .navbar {
-    bg-lite;
+    background-color: whitesmoke;
   }
 
 @media (max-width: 575.5px) {
