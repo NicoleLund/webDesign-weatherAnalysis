@@ -1,0 +1,9 @@
+.navbar {
+    bg-lite;
+  }
+
+@media (max-width: 575.5px) {
+    .navbar {
+        background-color: #c055c0;
+    }
+}
