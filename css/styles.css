@@ -11,6 +11,10 @@ img {
     height: auto;
 }
 
+.table-responsive {
+    overflow-x: scroll;
+}
+
 .centering {
     text-align: center;
     color: #c055c0;
