@@ -2,16 +2,25 @@ body {
     background-color: lightgray;
 }
 
-.floating {
-    width: 50%;
-    height: auto;
-    float: left;
+h1 {
+    color: #c055c0;
 }
 
 img {
     width: 100%;
     height: auto;
-  }
+}
+
+.centering {
+    text-align: center;
+    color: #c055c0;
+}
+
+.floating {
+    width: 50%;
+    height: auto;
+    float: left;
+}
 
 .navbar {
     background-color: whitesmoke;
