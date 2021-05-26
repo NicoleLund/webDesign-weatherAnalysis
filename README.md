@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# web-design-challenge
 
-You can use the [editor on GitHub](https://github.com/NicoleLund/web-design-challenge/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+UofA Data Analytics Bootcamp Homework Assignment 11-Web
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Assignment Description
 
-### Markdown
+Build a webpage reporting the analysis conducted in the UofA Data Analytics Bootcamp Homework Assignment <a href="https://github.com/NicoleLund/python-api-challenge.git" target="_blank">06-Python-APIs WeatherPy</a>. That analysis retrieved and analyzed the current weather at 500+ locations around the world. The webpage requirements included:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Content deployed to GitHub pages
+* Pages utilizes a consistent navigation menu at the top of every page including:
+    * A link in the top left corner that returns the user to the landing page
+    * A dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page
+    * Additional links next to the dropdown menu for the "Comparisons" and "Data" pages
+* Pages used formatting that is responsive to screen size using media queries or bootstrap
 
-```markdown
-Syntax highlighted code block
+### Completed Website
+<a href="https://nicolelund.github.io/web-design-challenge/index.html" target="_blank">https://nicolelund.github.io/web-design-challenge/index.html</a>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NicoleLund/web-design-challenge/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Project Content Descriptions
+* index.html - Primary website landing page explaining the project and a preview (with links) of all four visualizations reported.
+* comparison.html - A quad-chart on medium/large screens that collapses to a single column on smaller screens that compares all four visualizations reported with corresponding links to detailed analysis for each figure. 
+* data.html - A bootstrap responsive table containing the source data for the project.
+* visualizations - A folder containing the individual detailed figure analyses for each weather observation category.
+    * cloudiness.html - Latitude vs Cloudiness Analysis
+    * humidity.html - Latitude vs Humidity Analysis
+    * max_temp.html - Latitude vs Max Temperature Analysis
+    * wndspd.html - Latitude vs Windspeed Analysis
+* resources - A folder containing the content presented in the project webpages.
+    * assets - A folder containing all of the source images.
+    * cities.csv - The source data for data.html.
+    * convert_cities.ipynb - A Jupyter Notebook for converting cities.csv into cities.html.
+    * cities.html - HTML table code that was copied into data.html.
+* css - A folder containing the common styles.css stylesheet for all webpages in the project.
