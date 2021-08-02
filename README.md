@@ -1,4 +1,4 @@
-# web-design-challenge
+# webDesign-weatherAnalysis
 
 UofA Data Analytics Bootcamp Homework Assignment 11-Web
 
