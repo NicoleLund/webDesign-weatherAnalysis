@@ -14,7 +14,7 @@ Build a webpage reporting the analysis conducted in the UofA Data Analytics Boot
 * Pages used formatting that is responsive to screen size using media queries or bootstrap
 
 ### Completed Website
-<a href="https://nicolelund.github.io/web-design-challenge/index.html" target="_blank">https://nicolelund.github.io/web-design-challenge/index.html</a>
+<a href="https://nicolelund.github.io/webDesign-weatherAnalysis/index.html" target="_blank">https://nicolelund.github.io/webDesign-weatherAnalysis/index.html</a>
 
 ### Project Content Descriptions
 * index.html - Primary website landing page explaining the project and a preview (with links) of all four visualizations reported.
