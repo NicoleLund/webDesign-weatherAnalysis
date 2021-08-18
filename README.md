@@ -4,7 +4,7 @@ UofA Data Analytics Bootcamp Homework Assignment 11-Web
 
 ### Assignment Description
 
-Build a webpage reporting the analysis conducted in the UofA Data Analytics Bootcamp Homework Assignment <a href="https://github.com/NicoleLund/python-api-challenge.git" target="_blank">06-Python-APIs WeatherPy</a>. That analysis retrieved and analyzed the current weather at 500+ locations around the world. The webpage requirements included:
+Build a webpage reporting the analysis conducted in the UofA Data Analytics Bootcamp Homework Assignment <a href="https://github.com/NicoleLund/pythonAPI-weatherAnalysis.git" target="_blank">https://github.com/NicoleLund/pythonAPI-weatherAnalysis.git</a>. That analysis retrieved and analyzed the current weather at 500+ locations around the world. The webpage requirements included:
 
 * Content deployed to GitHub pages
 * Pages utilizes a consistent navigation menu at the top of every page including:
